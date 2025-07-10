@@ -1,7 +1,4 @@
-<!-- Banner personalizado -->
-<div align="center">
-  <img src="https://raw.githubusercontent.com/jankarlito689/jankarlito689/main/assets/banner.png" alt="Banner de Cesar Karlo" style="width: 100%;"/>
-</div>
+
 
 # 👋 ¡Hola! Soy Cesar Jan Karlo Leos Suarez
 
