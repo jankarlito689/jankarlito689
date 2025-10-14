@@ -4,16 +4,16 @@
 
 ### 🚀 Ingeniero en Cómputo en formación | Apasionado por el desarrollo móvil, backend y web moderno
 
-Me especializo en construir **aplicaciones móviles con C#**, servicios backend eficientes y sitios web responsivos usando herramientas modernas. Con conocimientos en **C/C++**, **JavaScript**, **.NET MAUI**, **React**, **PostgreSQL**, **Supabase**, y **Python**, busco unir diseño funcional con lógica robusta.
+Me especializo en construir **aplicaciones móviles**, servicios backend eficientes y sitios web responsivos usando herramientas modernas. Con conocimientos en **C/C++**, **JavaScript**, **React y React native**, **PostgreSQL**, **Supabase**, y **Python**, busco unir diseño funcional con lógica robusta.
 
 ---
 
 ## 🧠 Sobre mí
 
-- 🎓 **Estudiante de Ingeniería en Cómputo** (IPN)
+- 🎓 **Estudiante de Ingeniería en Cómputo** (UdeG)
 - 🧠 Experiencia en desarrollo con **C** y **C++**, tanto a nivel académico como práctico
-- 🖥️ Me apasiona el **desarrollo backend** orientado a servicios y APIs REST
-- 📲 Experiencia práctica en desarrollo móvil nativo con **Xamarin Forms** y **.NET MAUI**
+- 🖥️ Me apasiona el **desarrollo backend y Movil**
+- 📲 Experiencia práctica en desarrollo móvil nativo con **React native** y **node**
 - 🔄 Familiarizado con arquitectura MVC, control de versiones, y metodologías ágiles
 - 🧩 Siempre dispuesto a aprender nuevas tecnologías y compartir conocimiento
 
@@ -27,15 +27,13 @@ Me especializo en construir **aplicaciones móviles con C#**, servicios backend 
 ![C](https://img.shields.io/badge/C-272822?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-.NET-512BD4?logo=csharp&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![JavaScript y Typescript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 
 ### 📱 Desarrollo Móvil
-![Xamarin Forms](https://img.shields.io/badge/Xamarin%20Forms-5.0-3498db?logo=xamarin&logoColor=white)
-![.NET MAUI](https://img.shields.io/badge/.NET-MAUI-512BD4?logo=dotnet&logoColor=white)
+![React native](https://img.shields.io/badge/React-JS-61DAFB?logo=react&logoColor=black)
 
-### 🌐 Desarrollo Web (Frontend + Backend)
-![React](https://img.shields.io/badge/React-JS-61DAFB?logo=react&logoColor=black)
+### 🌐 Desarrollo Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-Framework-FF5D01?logo=astro&logoColor=white)
@@ -52,9 +50,9 @@ Me especializo en construir **aplicaciones móviles con C#**, servicios backend 
 
 ## 📌 Proyectos Destacados
 
-- 📱 **Apps móviles multiplataforma** usando C# con Xamarin Forms y .NET MAUI
-- 🌐 **Desarrollo web fullstack** con React, Astro y Express.js
-- 🧠 **APIs RESTful** seguras y estructuradas, autenticación JWT y middlewares personalizados
+- 📱 **Apps móviles multiplataforma** usando typescript y javaScript con Reac naive
+- 🌐 **Desarrollo web ** con React, Astro 
+- 🧠 **APIs RESTful** seguras y estructuradas, autenticación JWT y middlewares personalizados con  Express.js
 - 🔄 **Gestión de datos** usando Supabase y PostgreSQL como backend en la nube
 - ⚙️ **Interacción directa con bajo nivel** en proyectos académicos con C y C++
 - 🧪 Implementación de arquitecturas MVC y pruebas con Postman, ThunderClient, y Jest
