@@ -49,7 +49,7 @@ Me especializo en construir **aplicaciones móviles**, servicios backend eficien
 
 ## 📌 Proyectos Destacados
 
-- 📱 **Apps móviles multiplataforma** usando typescript y javaScript con Reac naive
+- 📱 **Apps móviles multiplataforma** usando typescript y javaScript con React native
 - 🌐 **Desarrollo web ** con React, Astro 
 - 🧠 **APIs RESTful** seguras y estructuradas, autenticación JWT y middlewares personalizados con  Express.js
 - 🔄 **Gestión de datos** usando Supabase y PostgreSQL como backend en la nube
@@ -84,6 +84,7 @@ Me especializo en construir **aplicaciones móviles**, servicios backend eficien
 - 💼 [LinkedIn](https://www.linkedin.com/in/cesarkarlodev)
 - 📬 jankarli69@outlook.com
 - 💻 [GitHub](https://github.com/jankarlito689)
+- 🌐 [Mi sitio web](https://miblogdev.netlify.app/)
 
 ---
 
