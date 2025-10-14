@@ -73,7 +73,6 @@ Me especializo en construir **aplicaciones móviles**, servicios backend eficien
 <div align="center">
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jankarlito689&show_icons=true&theme=radical&count_private=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jankarlito689&layout=compact&theme=radical)
 
 </div>
 
