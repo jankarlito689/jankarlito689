@@ -4,7 +4,7 @@
 
 ### 🚀 Ingeniero en Cómputo en formación | Apasionado por el desarrollo móvil, backend y web moderno
 
-Me especializo en construir **aplicaciones móviles**, servicios backend eficientes y sitios web responsivos usando herramientas modernas. Con conocimientos en **C/C++**, **JavaScript**, **React y React native**, **PostgreSQL**, **Supabase**, y **Python**, busco unir diseño funcional con lógica robusta.
+Me especializo en construir **aplicaciones móviles**, servicios backend y sitios web responsivos usando herramientas modernas. Con conocimientos en **C/C++**, **JavaScript**, **React y React native**, **PostgreSQL**, **Supabase**, y **Python**, busco unir diseño funcional con lógica robusta.
 
 ---
 
