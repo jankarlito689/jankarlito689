@@ -26,7 +26,7 @@ Me especializo en construir **aplicaciones móviles**, servicios backend y sitio
 ### 👨‍💻 Lenguajes de programación
 ![C](https://img.shields.io/badge/C-272822?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![JavaScript y Typescript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 
 ### 📱 Desarrollo Móvil
