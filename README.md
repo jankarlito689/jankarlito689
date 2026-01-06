@@ -58,26 +58,6 @@ Me especializo en construir **aplicaciones móviles**, servicios backend y sitio
 
 ---
 
-## 🏆 GitHub Showcase
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=jankarlito689&theme=algolia&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
-## 📈 Estadísticas de GitHub
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jankarlito689&show_icons=true&theme=radical&count_private=true)
-
-</div>
-
----
-
 ## 🌐 Conecta conmigo
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/cesarkarlodev)
