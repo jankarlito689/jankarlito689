@@ -2,7 +2,7 @@
 
 # 👋 ¡Hola! Soy Cesar Jan Karlo Leos Suarez
 
-### 🚀 Ingeniero en Cómputo en formación | Apasionado por el desarrollo móvil, backend y web moderno
+### 🚀 Ingeniero en Cómputo en formación | Apasionado por el desarrollo móvil, backend
 
 Me especializo en construir **aplicaciones móviles**, servicios backend y sitios web responsivos usando herramientas modernas. Con conocimientos en **C/C++**, **JavaScript**, **React y React native**, **PostgreSQL**, **Supabase**, y **Python**, busco unir diseño funcional con lógica robusta.
 
@@ -26,16 +26,18 @@ Me especializo en construir **aplicaciones móviles**, servicios backend y sitio
 ### 👨‍💻 Lenguajes de programación
 ![C](https://img.shields.io/badge/C-272822?logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white)
-![Typescript](https://img.shields.io/badge/JavaScript-ES6+-F7DF1E?logo=javascript&logoColor=black)
+![Typescript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.11-3776AB?logo=python&logoColor=white)
 
 ### 📱 Desarrollo Móvil
-![React native](https://img.shields.io/badge/React-JS-61DAFB?logo=react&logoColor=black)
+![React Native](https://img.shields.io/badge/React_Native-20232A?logo=react&logoColor=61DAFB)
+![Android](https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white)
 
 ### 🌐 Desarrollo Frontend
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![Astro](https://img.shields.io/badge/Astro-Framework-FF5D01?logo=astro&logoColor=white)
+![React](https://img.shields.io/badge/React-JS-61DAFB?logo=react&logoColor=black)
 
 ### 🔧 Backend & Bases de Datos
 ![Supabase](https://img.shields.io/badge/Supabase-Backend%20as%20a%20Service-3FCF8E?logo=supabase&logoColor=white)
